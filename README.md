@@ -15,7 +15,7 @@
 
 - 📫 Contacto **gownerbeats@gmail.com**
 
-- 📄 Conoce mis experiencias [CV.pdf](Link del cv)
+- 📄 Conoce mis experiencias [CV.pdf](https://www.canva.com/design/DAE0UQV2xlA/mue-sE3FbzDdzJn23b5_zw/view?utm_content=DAE0UQV2xlA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <h3 align="left">Conectate conmigo</h3>
 <p align="left">
