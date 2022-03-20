@@ -56,11 +56,8 @@
     <a href="https://getcomposer.org" target="_blank" rel="noreferrer">
         <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="python" width="40" height="40"/>
     </a>
-    <a href="https://trello.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://trello.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" alt="python" width="40" height="40"/>
+    <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/245px-WordPress_blue_logo.svg.png" alt="python" width="40" height="40"/>
     </a>
 </p>
 
