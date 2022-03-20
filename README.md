@@ -9,7 +9,7 @@
 
 - 🌱 En estos momentos me encuentro aprendiento **Data Science, English (Intermediate) and BI**
 
-- 👨‍💻 Aqui pueden encontrar mi portafolio con todos mis proyectos disponibles y poder conocerme un poco más [http://portfolio.gesprender.com](https://portafoliodylangowner.000webhostapp.com/portafolio/index.php#Home)
+- 👨‍💻 Aqui puedes encontrar mi portafolio con todos mis proyectos disponibles y poder conocerme un poco más [Portafolio](https://portafoliodylangowner.000webhostapp.com/portafolio/index.php#Home)
 
 - 💬 Preguntame sobre **Python, PHP, MySQL, BI**
 
