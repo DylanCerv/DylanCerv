@@ -54,7 +54,7 @@
         <img src="https://laravel.com/img/logomark.min.svg" alt="python" width="40" height="40"/>
     </a>
     <a href="https://getcomposer.org" target="_blank" rel="noreferrer">
-        <img src="https://getcomposer.org/img/logo-composer-transparent4.png" alt="python" width="40" height="40"/>
+        <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="python" width="40" height="40"/>
     </a>
     <a href="https://trello.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" alt="python" width="40" height="40"/>
