@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Mi nombre es  Dylan España</h1>
-<h3 align="center">Un fanatico de la Programacion y Negocios</h3>
+<h3 align="center">Un fanático de la Programación y Negocios</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanCerv&label=Profile%20views&color=0e75b6&style=flat" alt="DylanCerv" /> </p>
 
