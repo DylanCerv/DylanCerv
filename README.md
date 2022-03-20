@@ -9,8 +9,6 @@
 
 - 🌱 En estos momentos me encuentro aprendiento **Data Science, English (Intermediate) and BI**
 
-- 🔭 My personal proyect is [GesPrender](https://gesprender.com)
-
 - 👨‍💻 Aqui pueden encontrar mi portafolio con todos mis proyectos disponibles y poder conocerme un poco más [http://portfolio.gesprender.com](https://portafoliodylangowner.000webhostapp.com/portafolio/index.php#Home)
 
 - 💬 Preguntame sobre **Python, PHP, MySQL, BI**
