@@ -68,4 +68,4 @@
 #### Estadísticas
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&locale=en" alt="DylanCerv" /></p>
 <p><img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p>
