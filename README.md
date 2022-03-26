@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanCerv&label=Profile%20views&color=0e75b6&style=flat" alt="DylanCerv" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DylanCerv" alt="DylanCerv" /></a> </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=DylanCerv&theme=onedark)](https://github.com/DylanCerv)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DylanCerv" alt="DylanCerv" /></a> </p>
 
 
 - 🔭 Actualmente me encuentro desarrollando en equipo, la plataforma [GesPrender](https://gesprender.com)
