@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es  Dylan España</h1>
 
----
-
 <h3 align="center">Un fanático de la Programación y de los Negocios</h3>
 
 ---
