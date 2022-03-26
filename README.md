@@ -67,7 +67,8 @@
 
 ### Estadísticas
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&locale=en" alt="DylanCerv" /></p> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cateiru&layout=compact&theme=nord&hide_border=true
-" alt="DylanCerv" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanCerv&layout=compact&theme=nord&hide_border=true" width="338px" />
+ </a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p>
