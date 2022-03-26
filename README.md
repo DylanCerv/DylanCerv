@@ -1,7 +1,11 @@
 <h1 align="center">Hola 👋, Mi nombre es  Dylan España</h1>
+
 ---
+
 <h3 align="center">Un fanático de la Programación y de los Negocios</h3>
+
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanCerv&label=Profile%20views&color=0e75b6&style=flat" alt="DylanCerv" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DylanCerv&no-frame=true&column=6" alt="DylanCerv" /></a> </p>
 
