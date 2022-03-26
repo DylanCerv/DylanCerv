@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Mi nombre es  Dylan España</h1>
+<h1 align="center">Hola 👋, Mi nombre es  Dylan España</h1>
 <h3 align="center">Un fanático de la Programación y de los Negocios</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanCerv&label=Profile%20views&color=0e75b6&style=flat" alt="DylanCerv" /> </p>
@@ -65,6 +65,7 @@
 #### Contribution Graph
 [![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DylanCerv&theme=react-dark)](https://github.com/DylanCerv)
 
+#### Estadísticas
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&locale=en" alt="DylanCerv" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p>
