@@ -93,7 +93,7 @@
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DylanCerv&theme=vue" width="270px" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img align="center" src="https://raw.githubusercontent.com/cateiru/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="270px" />
+        <img align="center" src="https://raw.githubusercontent.com/cateiru/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="1000px" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img align="center" src="https://raw.githubusercontent.com/cateiru/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg" width="270px" />
