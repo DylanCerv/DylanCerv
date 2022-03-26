@@ -1,10 +1,11 @@
 <h1 align="center">Hola 👋, Mi nombre es  Dylan España</h1>
+---
 <h3 align="center">Un fanático de la Programación y de los Negocios</h3>
-
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanCerv&label=Profile%20views&color=0e75b6&style=flat" alt="DylanCerv" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DylanCerv&no-frame=true&column=6" alt="DylanCerv" /></a> </p>
 
+---
 
 - 🔭 Actualmente me encuentro desarrollando en equipo, la plataforma [GesPrender](https://gesprender.com)
 
@@ -18,10 +19,14 @@
 
 - 📄 Conoce mis experiencias [CV.pdf](https://www.canva.com/design/DAE0UQV2xlA/mue-sE3FbzDdzJn23b5_zw/view?utm_content=DAE0UQV2xlA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
+---
+
 <h3 align="left">Conectate conmigo</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dylan-españa-c-200abc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dylan-españa-c-200abc/" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
@@ -62,13 +67,17 @@
     </a>
 </p>
 
+---
+
 ### Contribution Graph
 [![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DylanCerv&theme=react-dark)](https://github.com/DylanCerv)
+
+---
 
 ### Estadísticas
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&locale=en" alt="DylanCerv" /></p> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanCerv&layout=compact&theme=nord&hide_border=true" width="338px" />
  </a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p> -->
