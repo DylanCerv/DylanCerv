@@ -93,7 +93,7 @@
 
 <div align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img align="center" src="https://raw.githubusercontent.com/DylanCervmaster/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="270px" />
+        <img align="center" src="https://raw.githubusercontent.com/DylanCerv/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="270px" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img align="center" src="https://raw.githubusercontent.com/DylanCerv/DylanCerv/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="270px" />
