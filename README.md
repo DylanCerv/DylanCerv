@@ -78,6 +78,8 @@
 
 ### Estadísticas
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&locale=en" alt="DylanCerv" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p> -->
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&count_private=true&theme=nord&line_height=20&count_private=true&include_all_commits=true&hide_border=true" width="480px" />
@@ -86,16 +88,17 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanCerv&layout=compact&theme=nord&hide_border=true" width="338px" />
     </a>
 <div/>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p> -->
+
+--
+
 <div align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DylanCerv&theme=vue" width="270px" />
+        <img align="center" src="https://raw.githubusercontent.com/DylanCerv/DylanCerv/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="270px" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img align="center" src="https://raw.githubusercontent.com/DylanCerv/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="270px" />
+        <img align="center" src="https://raw.githubusercontent.com/DylanCerv/DylanCerv/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="270px" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img align="center" src="https://raw.githubusercontent.com/DylanCerv/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg" width="270px" />
+        <img align="center" src="https://raw.githubusercontent.com/DylanCerv/DylanCerv/master/profile-summary-card-output/nord_dark/4-productive-time.svg" width="270px" />
     </a>
 </div>
