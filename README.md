@@ -20,7 +20,7 @@
 
 - 📫 Contacto **gownerbeats@gmail.com**
 
-- 📄 Conoce mis experiencias [CV.pdf](https://www.canva.com/design/DAE0UQV2xlA/mue-sE3FbzDdzJn23b5_zw/view?utm_content=DAE0UQV2xlA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Conoce mis experiencias [CV.pdf](https://portafoliodylangowner.000webhostapp.com/portafolio/PDFs/CV.pdf)
 
 ---
 
