@@ -73,7 +73,7 @@
 ---
 
 ### Gráfica de Contribuciones
-[![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DylanCer<zxv&theme=react-dark)](https://github.com/DylanCerv)
+[![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DylanCerv&theme=react-dark)](https://github.com/DylanCerv)
 
 ---
 
