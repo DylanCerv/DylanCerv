@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, Mi nombre es  Dylan España</h1>
+<h1 align="center">Hi 👋, My name is  Dylan España</h1>
 
-<h3 align="center">Un fanático de la Programación y de los Negocios</h3>
+<h3 align="center">A fan of Programming and Business</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanCerv&label=Profile%20views&color=0e75b6&style=flat" alt="DylanCerv" /> </p>
 
@@ -10,28 +10,28 @@
 
 ---
 
-- 🔭 Actualmente me encuentro desarrollando en equipo, la plataforma [GesPrender](https://gesprender.com)
+- 🔭 I'm currently developing as a team, the platform [GesPrender](https://gesprender.com)
 
-- 🌱 En estos momentos me encuentro aprendiento **Data Science, English (Intermediate)** y **BI**
+- 🌱 I'm currently learning **Data Science, English (Intermediate)** and **BI**
 
-- 👨‍💻 Aqui puedes encontrar mi portafolio con todos mis proyectos disponibles y poder conocerme un poco más [Portafolio](https://portafoliodylangowner.000webhostapp.com/portafolio/index.php#Home)
+- 👨‍💻 Here you can find my portfolio with all my available projects and get to know me a little more [Portfolio](https://portafoliodylangowner.000webhostapp.com/portafolio/)
 
-- 💬 Preguntame sobre **Python, PHP, MySQL, BI** o cualquier otro tema que te interese, siempre me gusta aprender más 😊
+- 💬 You can ask me about **Python, PHP, MySQL, BI** or any other topic that interests you, I always like to learn more 😊
 
-- 📫 Contacto **gownerbeats@gmail.com**
+- 📫 Contact **gownerbeats@gmail.com**
 
-- 📄 Conoce mis experiencias [CV.pdf](https://portafoliodylangowner.000webhostapp.com/portafolio/PDFs/CV.pdf)
+- 📄 Know my experiences [CV.pdf](https://portafoliodylangowner.000webhostapp.com/portafolio/PDFs/CV.pdf)
 
 ---
 
-<h3 align="left">Conectate conmigo</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dylan-españa-c-200abc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dylan-españa-c-200abc/" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/>
@@ -72,12 +72,12 @@
 
 ---
 
-### Gráfica de Contribuciones
+### Contribution Chart
 [![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DylanCerv&theme=react-dark)](https://github.com/DylanCerv)
 
 ---
 
-### Estadísticas
+### Statistics
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&locale=en" alt="DylanCerv" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p> -->
