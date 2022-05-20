@@ -78,9 +78,9 @@
 ---
 
 ### Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&locale=en" alt="DylanCerv" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&locale=en" alt="DylanCerv" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p> -->
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&count_private=true&theme=nord&line_height=20&count_private=true&include_all_commits=true&hide_border=true" width="480px" />
