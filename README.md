@@ -20,7 +20,7 @@
 
 - 📫 Contact **gownerbeats@gmail.com**
 
-- 📄 Know my experiences [CV.pdf](https://portafoliodylangowner.000webhostapp.com/portafolio/PDFs/CV.pdf)
+- 📄 Know my experiences [CV.pdf](https://portafoliodylangowner.000webhostapp.com/portafolio/PDFs/CV-B-(Englis).pdf)
 
 ---
 
