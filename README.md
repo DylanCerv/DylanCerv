@@ -68,6 +68,9 @@
     <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/245px-WordPress_blue_logo.svg.png" alt="python" width="40" height="40"/>
     </a>
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/>
+    </a>
 </p>
 
 ---
