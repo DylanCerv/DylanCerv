@@ -92,12 +92,18 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>
     </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://portafoliodylangowner.000webhostapp.com/images/Skills/numpy.png" alt="numpy" width="40" height="40"/>
+    </a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://portafoliodylangowner.000webhostapp.com/images/Skills/matplotlib.png" alt="matplotlib" width="40" height="40"/>
+    </a>
 </p>
 
----
+<!-- --- -->
 
-### Contribution Chart
-[![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DylanCerv&theme=react-dark)](https://github.com/DylanCerv)
+<!-- ### Contribution Chart -->
+<!-- [![Aryan Tripathi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DylanCerv&theme=react-dark)](https://github.com/DylanCerv) -->
 
 ---
 
