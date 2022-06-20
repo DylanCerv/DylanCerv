@@ -6,7 +6,18 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DylanCerv&no-frame=true&column=6" alt="DylanCerv" /></a> </p>
+<p align="center"> 
+    <img src="https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg" />
+    
+<!--     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DylanCerv&no-frame=true&column=6" alt="DylanCerv" /></a>  -->
+
+</p>
+
+
+
+
+
+
 
 ---
 
