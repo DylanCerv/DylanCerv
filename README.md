@@ -14,13 +14,13 @@
 
 - 🌱 I'm currently learning **Data Science, English (Intermediate)** and **BI**
 
-- 👨‍💻 Here you can find my portfolio with all my available projects and get to know me a little more [Portfolio](https://portafoliodylangowner.000webhostapp.com/portafolio/)
+- 👨‍💻 Here you can find my portfolio with all my available projects and get to know me a little more [Portfolio](https://portafoliodylangowner.000webhostapp.com)
 
 - 💬 You can ask me about **Python, PHP, MySQL, BI** or any other topic that interests you, I always like to learn more 😊
 
 - 📫 Contact **gownerbeats@gmail.com**
 
-- 📄 Know my experiences [CV.pdf](https://portafoliodylangowner.000webhostapp.com/portafolio/PDFs/CV-B-(Englis).pdf)
+- 📄 Know my experiences [CV.pdf](https://portafoliodylangowner.000webhostapp.com/PDFs/CV-b-(English).pdf)
 
 ---
 
