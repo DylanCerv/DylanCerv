@@ -77,6 +77,21 @@
     <a href="https://reactjs.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="40" height="40"/>
     </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="cmd" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="TypeScript" width="40" height="40"/>
+    </a>
+    <a href="https://jquery.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="JQuery" width="40" height="40"/>
+    </a>
+    <a href="https://colab.research.google.com" target="_blank" rel="noreferrer">
+        <img src="https://portafoliodylangowner.000webhostapp.com/images/Skills/Google_Colab.png" alt="Google Colab" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>
+    </a>
 </p>
 
 ---
