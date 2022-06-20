@@ -71,11 +71,11 @@
     <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/>
     </a>
-    <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="JavaScript" width="40" height="40"/>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="NodeJS" width="40" height="40"/>
     </a>
-    <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="JavaScript" width="40" height="40"/>
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="40" height="40"/>
     </a>
 </p>
 
