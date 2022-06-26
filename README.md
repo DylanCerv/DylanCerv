@@ -33,7 +33,7 @@
 
 - 💬 You can ask me about **Python, PHP, MySQL, BI** or any other topic that interests you, I always like to learn more 😊
 
-- 📫 Contact **gownerbeats@gmail.com**
+- 📫 Contact **dylanecervantes@gmail.com**
 
 - 📄 Know my experiences [CV.pdf](https://portafoliodylangowner.000webhostapp.com/PDFs/CV-b-(English).pdf)
 
