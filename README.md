@@ -121,8 +121,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p> -->
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&theme=nord&line_height=30&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&include_all_commits=true&hide_border=true" width="480px" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanCerv&layout=compact&theme=nord&title_color=0891b2&text_color=ffffff&line_height=20&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="463px" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&theme=nord&line_height=30&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&border_color=056278&bg_color=1c1917&include_all_commits=true&hide_border=false" width="480px" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanCerv&layout=compact&theme=nord&title_color=0891b2&text_color=ffffff&line_height=20&icon_color=0891b2&border_color=056278&bg_color=1c1917&hide_border=false" width="463px" /></a>
 <div/>
 
 <!-- ---
