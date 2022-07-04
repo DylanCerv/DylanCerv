@@ -6,11 +6,10 @@
 <h3 align="center">I'm a fan of Programming and Business</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanCerv&label=Profile%20views&color=0e75b6&style=flat" alt="DylanCerv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanCerv&label=Profile%20views&color=0891b2&style=flat" alt="DylanCerv" /> </p>
+0e75b6
+<img src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
-
-<img
-src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 ---
 
 <p align="center"> 
