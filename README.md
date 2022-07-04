@@ -5,10 +5,7 @@
 
 <h3 align="center">I'm a fan of Programming and Business</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanCerv&label=Profile%20views&color=0891b2&style=flat" alt="DylanCerv" /> </p>
-0e75b6
-<img src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<p align="left"> <img src="https://komarev.com/ghpvc/? username=DylanCerv& label=Profile Views& color=007ec6& style=for-the-badge" alt="DylanCerv" /> </p>
 
 ---
 
@@ -18,11 +15,6 @@
 <!--     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DylanCerv&no-frame=true&column=6" alt="DylanCerv" /></a>  -->
 
 </p>
-
-
-
-
-
 
 
 ---
@@ -129,12 +121,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p> -->
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&count_private=true&theme=nord&line_height=20&count_private=true&include_all_commits=true&hide_border=true" width="480px" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanCerv&layout=compact&theme=nord&hide_border=true" width="338px" />
-    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&theme=nord&line_height=30&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&include_all_commits=true&hide_border=true" width="480px" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanCerv&layout=compact&theme=nord&title_color=0891b2&text_color=ffffff&line_height=20&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="463px" /></a>
 <div/>
 
 <!-- ---
