@@ -19,9 +19,11 @@
 
 ---
 
+- 🔭 I'm currently co-founder and CTO of PINE
+
 - 🔭 I'm currently developing as a team, the platform [GesPrender](https://gesprender.com)
 
-- 🌱 I'm currently learning **Data Science, English (Intermediate)** and **BI**
+- 🌱 I'm currently learning **BlockChain, English (Intermediate)** and **Nextjs**
 
 - 👨‍💻 Here you can find my portfolio with all my available projects and get to know me a little more [Portfolio](https://dylan-cerv.web.app/)
 
@@ -29,7 +31,7 @@
 
 - 📫 Contact **dylanecervantes@gmail.com**
 
-- 📄 Know my experiences [CV.pdf](https://dylan-cerv.web.app/PDFs/CV-(English).pdf)
+- 📄 Know my experiences [CV.pdf](https://dylan-cerv.web.app/PDFs/CV-(En)-(Dylan_Espana_Cervantes).pdf)
 
 ---
 
@@ -96,16 +98,16 @@
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="JQuery" width="40" height="40"/>
     </a>
     <a href="https://colab.research.google.com" target="_blank" rel="noreferrer">
-        <img src="https://portafoliodylangowner.000webhostapp.com/images/Skills/Google_Colab.png" alt="Google Colab" width="40" height="40"/>
+        <img src="https://res.cloudinary.com/dnnjctymr/image/upload/v1665600255/portafolio/Skills/Google_Colab_qn2rfn.png" alt="Google Colab" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://portafoliodylangowner.000webhostapp.com/images/Skills/numpy.png" alt="numpy" width="40" height="40"/>
+        <img src="https://res.cloudinary.com/dnnjctymr/image/upload/v1665600268/portafolio/Skills/numpy_t8xhlq.png" alt="numpy" width="40" height="40"/>
     </a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://portafoliodylangowner.000webhostapp.com/images/Skills/matplotlib.png" alt="matplotlib" width="40" height="40"/>
+        <img src="https://res.cloudinary.com/dnnjctymr/image/upload/v1665600263/portafolio/Skills/matplotlib_m76vcq.png" alt="matplotlib" width="40" height="40"/>
     </a>
 </p>
 
