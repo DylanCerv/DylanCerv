@@ -80,7 +80,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>
+        <img src="https://res.cloudinary.com/dnnjctymr/image/upload/v1666706365/portafolio/Skills/mongodb_compass_macos_bigsur_icon_189933_ago7gz.png" alt="MongoDB" width="40" height="40"/>
     </a>
     <a href="https://laravel.com" target="_blank" rel="noreferrer">
         <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
@@ -89,7 +89,13 @@
         <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="Composer" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="NodeJS" width="40" height="40"/>
+        <img src="https://res.cloudinary.com/dnnjctymr/image/upload/v1666706540/portafolio/Skills/nodejs-inner_y5lfm0.png" alt="NodeJS" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://res.cloudinary.com/dnnjctymr/image/upload/v1666706103/portafolio/Skills/symfony-logo-AA34C8FC16-seeklogo.com_b27bja.png" alt="symfony" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://res.cloudinary.com/dnnjctymr/image/upload/v1666705355/portafolio/Skills/postman_alt_macos_bigsur_icon_189814_ifpiof.png" alt="symfony" width="40" height="40"/>
     </a>
 </p>
 
