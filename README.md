@@ -27,7 +27,7 @@
 
 - 👨‍💻 Here you can find my portfolio with all my available projects and get to know me a little more [Portfolio](https://dylan-cerv.web.app/)
 
-- 💬 You can ask me about **Python, PHP, MySQL, BI** or any other topic that interests you, I always like to learn more 😊
+- 💬 You can ask me about **Python, PHP, MySQL, Business** or any other topic that interests you, I always like to learn more 😊
 
 - 📫 Contact **dylanecervantes@gmail.com**
 
@@ -35,14 +35,14 @@
 
 ---
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/dylan-españa-c-200abc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dylan-españa-c-200abc/" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/>
@@ -118,7 +118,7 @@
 
 ---
 
-### Statistics
+## Statistics
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DylanCerv&show_icons=true&locale=en" alt="DylanCerv" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCerv&show_icons=true&locale=en&layout=compact" alt="DylanCerv" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanCerv&" alt="DylanCerv" /></p> -->
