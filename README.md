@@ -44,12 +44,6 @@
 
 ## Languages and Tools:
 ### Frontend
-
-
-### Backend
-
-
-### Others
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/>
@@ -57,14 +51,25 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="TypeScript" width="40" height="40"/>
+    </a>
+    <a href="https://jquery.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="JQuery" width="40" height="40"/>
+    </a>
+</p>
+
+### Backend
+<p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
@@ -74,41 +79,37 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-    <a href="https://trello.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" alt="python" width="40" height="40"/>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>
     </a>
     <a href="https://laravel.com" target="_blank" rel="noreferrer">
-        <img src="https://laravel.com/img/logomark.min.svg" alt="python" width="40" height="40"/>
+        <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
     </a>
     <a href="https://getcomposer.org" target="_blank" rel="noreferrer">
-        <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/245px-WordPress_blue_logo.svg.png" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/>
+        <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="Composer" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="NodeJS" width="40" height="40"/>
     </a>
-    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="40" height="40"/>
+</p>
+
+### Others
+<p align="left">
+
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://trello.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" alt="Trello" width="40" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="cmd" width="40" height="40"/>
     </a>
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="TypeScript" width="40" height="40"/>
-    </a>
-    <a href="https://jquery.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="JQuery" width="40" height="40"/>
-    </a>
     <a href="https://colab.research.google.com" target="_blank" rel="noreferrer">
         <img src="https://res.cloudinary.com/dnnjctymr/image/upload/v1665600255/portafolio/Skills/Google_Colab_qn2rfn.png" alt="Google Colab" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://res.cloudinary.com/dnnjctymr/image/upload/v1665600268/portafolio/Skills/numpy_t8xhlq.png" alt="numpy" width="40" height="40"/>
