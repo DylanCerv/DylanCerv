@@ -17,13 +17,10 @@
 <br />
 
 
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+Looking for opportunities to boost my professional growth! I am a passionate Full Stack web developer with 2 years of experience, ready to take on challenges and take exciting web projects to the next level. My skills include coordination of technical teams and deep knowledge of various tools. Let's walk together towards success!
+
 <br />
 
-
-Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** or <a href="mailto:abdo.achhoubi3@gmail.com"><b>send me an email</b></a>.
-<br />
-<br />
 </div>
 
 
@@ -32,15 +29,15 @@ Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 I’m currently developing my project Sethor.
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m learning new technologies as I venture into different environments.
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m currently exploring and working on different projects, for example Sethor.
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Ask me about anything related to programming or the world of business
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Curious fact: I like to meet new people to learn everything in practice.
 
 <br>
 
@@ -59,16 +56,16 @@ Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new
 
 <p align="centers">
 <a href="https://dylan-cerv.web.app/" target="_blank">
-<img height="30em" src="https://img.shields.io/badge/https://dylan--cerv.web.app-1fc3c1?style=flat&logo=&logoColor=white"/>
+<img height="25em" src="https://img.shields.io/badge/https://dylan--cerv.web.app-1fc3c1?style=flat&logo=&logoColor=white"/>
 <a href="https://github.com/DylanCerv" target="_blank">
-<img height="30em" src="https://img.shields.io/badge/DylanCerv-4e3cc5?style=flat&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/dylan-espana/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-Dylan Steven España Cervantes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<img height="25em" src="https://img.shields.io/badge/DylanCerv-4e3cc5?style=flat&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/dylan-espana/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Dylan Steven España Cervantes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/DylanCerv10" target="_blank">
-<img height="30em" src="https://img.shields.io/badge/@DylanCerv10-040404?style=flat&logo=x&logoColor=white"/>
+<img height="25em" src="https://img.shields.io/badge/@DylanCerv10-040404?style=flat&logo=x&logoColor=white"/>
 </a>
-<a href="mailto:dylanecervantes@gmail.com"><img height="30em" src="https://img.shields.io/badge/-dylanecervantes@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dylanecervantes@gmail.com"><img height="25em" src="https://img.shields.io/badge/-dylanecervantes@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.tiktok.com/@dylanecerv" target="_blank">
-<img height="30em" src="https://img.shields.io/badge/@dylanecerv-161616?style=flat&logo=tiktok&logoColor=white"/>
+<img height="25em" src="https://img.shields.io/badge/@dylanecerv-161616?style=flat&logo=tiktok&logoColor=white"/>
 </a>
 <!--<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>-->
 </p>
@@ -88,7 +85,7 @@ Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new
 
 
 
-<div align="center">
+<div align="centers">
 
 -----
 Credits: [DylanCerv](https://github.com/DylanCerv)
