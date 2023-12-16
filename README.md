@@ -33,7 +33,7 @@ Looking for opportunities to boost my professional growth! I am a passionate Ful
   
 - 🌱 I’m learning new technologies as I venture into different environments.
   
-- 👯 I’m currently exploring and working on different projects, for example Sethor.
+- 👯 I’m currently exploring different projects to contribute my knowledge to them and continue growing professionally.
   
 - 💬 Ask me about anything related to programming or the world of business
   
