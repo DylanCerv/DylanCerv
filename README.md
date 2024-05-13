@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<h2> Hi, My name is  Dylan España <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<h2> Hi, My name is Dylan España <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 <!--ICONS NETSWORK-->
 <a href="https://www.linkedin.com/in/dylan-espana/" target="_blank">
