@@ -1,31 +1,33 @@
 
-<img src="https://i.pinimg.com/564x/76/e9/23/76e9238fca30a0fc41b6f5fac75b516b.jpg" width = "100%">
+<!-- <img src="https://i.pinimg.com/564x/76/e9/23/76e9238fca30a0fc41b6f5fac75b516b.jpg" width = "100%"> -->
 
+# ¡Hey 👋! My name is Dylan España
 
-<div align="center">
-<h2> Hi, My name is Dylan España <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<div align="centers">
 
 <!--ICONS NETSWORK-->
-<a href="https://www.linkedin.com/in/dylan-espana/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DylanCerv10)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-espana/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylanecervantes@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@dylanecerv)
+<a href="https://dylan-cerv.web.app/" target="_blank">
+  <img height="25em" src="https://img.shields.io/badge/https://dylan--cerv.web.app-1fc3c1?style=flat&logo=&logoColor=white"/>
 </a>
-<a href="https://twitter.com/DylanCerv10" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<br />
-<br />
-
-
-Looking for opportunities to boost my professional growth! I am a passionate Full Stack web developer with 2 years of experience, ready to take on challenges and take exciting web projects to the next level. My skills include coordination of technical teams and deep knowledge of various tools. Let's walk together towards success!
-
-<br />
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dylan-cerv.web.app/) -->
 
 </div>
 
 
+
+This is the place where I opensource stuff and break things 🤣
+
+I am Full Stack web and mobile developer with 2+ years of experience, ready to take on challenges and take exciting projects to the next level.
+
+My skills include coordination of technical teams and deep knowledge of various tools. Let's walk together towards success!
+
+
 <!--ABOUT ME-->
-<h2> About Me </h2>
+## About Me
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -39,56 +41,51 @@ Looking for opportunities to boost my professional growth! I am a passionate Ful
   
 - ⚡ Curious fact: I like to meet new people to learn everything in practice.
 
-<br>
 
 <!--SKILLS-->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-[![Skills Frotend](https://skillicons.dev/icons?i=react,angular,js,typescript,sass,tailwindcss,html,css,bootstrap,nextjs)](https://skillicons.dev)
-[![Skills Backend](https://skillicons.dev/icons?i=php,python,nodejs,express,laravel,symfony,aws,gcp,firebase,mysql,mongodb,postman)](https://skillicons.dev)
-[![Skills Others](https://skillicons.dev/icons?i=figma,git,github)](https://skillicons.dev)
+<!-- https://github.com/Ileriayo/markdown-badges -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
 
-<br>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'http://aditya664.me/'> </a> 
-
-
-<p align="centers">
-<a href="https://dylan-cerv.web.app/" target="_blank">
-<img height="25em" src="https://img.shields.io/badge/https://dylan--cerv.web.app-1fc3c1?style=flat&logo=&logoColor=white"/>
-<a href="https://github.com/DylanCerv" target="_blank">
-<img height="25em" src="https://img.shields.io/badge/DylanCerv-4e3cc5?style=flat&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/dylan-espana/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Dylan Steven España Cervantes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/DylanCerv10" target="_blank">
-<img height="25em" src="https://img.shields.io/badge/@DylanCerv10-040404?style=flat&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:dylanecervantes@gmail.com"><img height="25em" src="https://img.shields.io/badge/-dylanecervantes@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@dylanecerv" target="_blank">
-<img height="25em" src="https://img.shields.io/badge/@dylanecerv-161616?style=flat&logo=tiktok&logoColor=white"/>
-</a>
-<!--<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>-->
-</p>
-  
-<br>
 
 <!--Analytics-->
-<h2>GitHub Analytics ⚙️ </h2>
+## GitHub Analytics ⚙️
 
 <p align="center">
-<a href="https://github.com/DylanCerv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DylanCerv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DylanCerv&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/DylanCerv">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DylanCerv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DylanCerv&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 
 
-
-<div align="centers">
 
 -----
 Credits: [DylanCerv](https://github.com/DylanCerv)
 
-Last Edited on: 16/12/2023
-<div/>
+Last refresh: Friday, 7 June, 2024
